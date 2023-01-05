@@ -7,7 +7,7 @@ public class Myclass {
 		System.out.println("Added dependencies");
 		System.out.println("Extent report");
 		System.out.println("Log4j");
-		System.out.println("Basic stuff");
+		System.out.println("Basic stuf");
 	}
 
 }
